@@ -14,4 +14,6 @@
 | [8. Исследования рынка общепита в Москве](https://github.com/GusevaAnna/Portfolio/tree/main/8) | Исследование рынка общественного питания на основе открытых данных, подготовка презентации|Python, Pandas, Matplotlib, Seaborn, Plotly|
 | [9. Банки — Анализ оттока клиентов](https://github.com/GusevaAnna/Portfolio/tree/main/9)| Проведите исследовательский анализ данных, определите все значимые признаки отточности  |Python, Pandas, Matplotlib, Seaborn|
 | [10. Анализ взаимодействия пользователей с карточками Яндекс.Дзен](https://public.tableau.com/app/profile/.34601905/viz/TableauPublic_16881374776750/Dashboard1?publish=yes)| Анализ взаимодействия пользователей с карточками разбивкой по темам, анализ количества карточек, которые генерируют источники, с разными темами, анализ соотношения тем карточек и источников |Tableau|
+| [11. Анализ поведения клиентов оператора связи](https://github.com/GusevaAnna/Portfolio/tree/main/11)| Анализ тарифов на небольшой выборке клиентов |Python, Pandas, Matplotlib, Seaborn, Scipy|
+
 
